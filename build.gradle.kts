@@ -32,7 +32,7 @@ repositories {
 // Dependencies are managed with Gradle version catalog - read more: https://docs.gradle.org/current/userguide/platforms.html#sub:version-catalog
 dependencies {
     testImplementation(libs.junit)
-    implementation("io.github.sashirestela:simple-openai:3.6.0")
+    implementation("io.github.sashirestela:simple-openai:3.8.2")
 
 //    testImplementation(platform("org.junit:junit-bom:5.10.3"))
 //    testImplementation("org.junit.jupiter:junit-jupiter")
